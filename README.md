@@ -1,4 +1,4 @@
-# Awesome TLS
+# Awesome TLS 2
 This extension hijacks Burp's HTTP and TLS stack, allowing you to spoof any browser TLS fingerprint ([JA3](https://github.com/salesforce/ja3)). 
 It boosts the power of Burp Suite while reducing the likelihood of fingerprinting by various WAFs like CloudFlare, PerimeterX, Akamai, DataDome, etc.
 
