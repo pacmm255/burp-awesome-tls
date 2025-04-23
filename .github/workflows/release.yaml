@@ -1,5 +1,6 @@
 # To test this workflow locally, run the following command:
 # act --use-gitignore=false
+#pacman was here
 name: Release binaries
 
 on:
