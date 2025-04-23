@@ -3,10 +3,7 @@
 #pacman was here
 name: Release binaries
 
-on:
-  push:
-    tags:
-      - 'v*'
+on: push
 jobs:
   build:
     name: Build and release binaries
